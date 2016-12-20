@@ -4,4 +4,14 @@
     <color name="colorPrimaryDark">#ed8608</color>
     <color name="colorAccent">#ff4043</color>
     <color name="colorSplash">#faba6c</color>
+    <color name="colorWhite">#ffffff</color>
+
+
+
+    <color name="primary">#E43F3F</color>
+    <color name="primary_dark">#E12929</color>
+    <color name="primary_darker">#CC1D1D</color>
+    <color name="accent">#FFFFFF</color>
+
+
 </resources>

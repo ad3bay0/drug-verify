@@ -1,4 +1,4 @@
-package com.ad3bay0.drugverify;
+package com.ad3bay0.activities;
 
 import org.junit.Test;
 

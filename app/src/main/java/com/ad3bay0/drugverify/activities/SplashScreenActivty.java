@@ -1,9 +1,12 @@
-package com.ad3bay0.drugverify;
+package com.ad3bay0.drugverify.activities;
 
 import android.content.Intent;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.ad3bay0.activities.R;
+import com.ad3bay0.drugverify.activities.HomeActivity;
 
 public class SplashScreenActivty extends AppCompatActivity {
 
