@@ -5,18 +5,18 @@
         <item
             android:id="@+id/verifyDrug"
 
-            android:title="Verify Drug" />
+            android:title="@string/menu_verify_drug" />
 
         <item
             android:id="@+id/aboutApp"
 
-            android:title="About" />
+            android:title="@string/menu_about_app" />
 
 
         <item
             android:id="@+id/exit"
 
-            android:title="Exit" />
+            android:title="@string/menu_exit" />
     </group>
 
 </menu>

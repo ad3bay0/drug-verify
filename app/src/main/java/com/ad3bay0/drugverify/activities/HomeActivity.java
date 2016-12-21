@@ -76,7 +76,9 @@ public class HomeActivity extends AppCompatActivity
         int id = item.getItemId();
 
         //noinspection SimplifiableIfStatement
-        if (id == R.id.action_settings) {
+        if (id == R.id.exit) {
+
+exitApp();
             return true;
         }
 
@@ -111,12 +113,7 @@ public class HomeActivity extends AppCompatActivity
 
             case R.id.exit:
 
-                Intent intent =  new Intent(Intent.ACTION_MAIN);
-                intent.addCategory(Intent.CATEGORY_HOME);
-                intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-
-                startActivity(intent);
-                finish();
+exitApp();
 
                 break;
 
@@ -140,6 +137,16 @@ public class HomeActivity extends AppCompatActivity
     }
 
 
+
+    private void exitApp(){
+
+        Intent intent =  new Intent(Intent.ACTION_MAIN);
+        intent.addCategory(Intent.CATEGORY_HOME);
+        intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+
+        startActivity(intent);
+        finish();
+    }
 
 
 
