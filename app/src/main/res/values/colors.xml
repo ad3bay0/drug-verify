@@ -5,6 +5,7 @@
     <color name="colorAccent">#ff4043</color>
     <color name="colorSplash">#faba6c</color>
     <color name="colorWhite">#ffffff</color>
+    <color name="colorBackground">#f4c48a</color>
 
 
 
@@ -12,6 +13,10 @@
     <color name="primary_dark">#E12929</color>
     <color name="primary_darker">#CC1D1D</color>
     <color name="accent">#FFFFFF</color>
+
+    <color name="expired">#ff0000</color>
+
+    <color name="valid">#00ff26</color>
 
 
 </resources>

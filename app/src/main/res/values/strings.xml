@@ -12,6 +12,7 @@
 
     <string name="about_app_title">About</string>
     <string name="drug_code_input_hint">ENTER DRUG CODE</string>
+    <string name="drug_batchno_input_hint">Batch No (Optional)</string>
     <string name="verify_button_text">Verify</string>
 
 
@@ -19,6 +20,18 @@
     <string name="menu_about_app">About</string>
     <string name="menu_exit">Exit</string>
 
+
+    <string name="manufacturer">Manufacturer:</string>
+
+    <string name="manufactured_date">Manufactured:</string>
+
+    <string name="expired_date">Expiresd:</string>
+
+    <string name="batch_no">Batch No:</string>
+
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
 </resources>

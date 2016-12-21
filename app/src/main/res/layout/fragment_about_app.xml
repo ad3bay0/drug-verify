@@ -35,6 +35,6 @@
             android:textAlignment="center"
             android:textSize="24sp"
             android:textColor="@android:color/background_dark"
-            android:text="v.0.1" />
+            android:text="v0.1" />
     </LinearLayout>
 </FrameLayout>
